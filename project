@@ -1,0 +1,59 @@
+# 🧬 DNA Sequence Analysis using DNA Dragon & Primer Designing
+
+## 📌 Overview
+This project demonstrates **DNA sequence analysis** using **DNA Dragon software**. The workflow includes:
+- Importing raw DNA sequences
+- Trimming low-quality regions
+- Generating forward and reverse sequences
+- Performing **BLAST analysis** for similarity search
+- Designing primers for PCR applications
+
+This repository is useful for **molecular biology students, researchers, and bioinformatics enthusiasts** who want to learn about basic sequence analysis without coding.
+
+---
+
+## 🛠 Tools Used
+- **DNA Dragon** (for sequence editing and primer design)
+- **NCBI BLAST** (for sequence similarity search)
+
+---
+
+## 🔍 Workflow Steps
+1. Imported DNA sequence in **DNA Dragon**.
+2. Trimmed unnecessary regions to clean the sequence.
+3. Generated forward and reverse complement sequences.
+4. Performed **BLAST search** for homology analysis.
+5. Designed primers for amplification.
+
+---
+## 📂 Repository Structure
+📦 DNA-Dragon-Project
+ ┣ 📂 screenshots
+ ┃ ┣ dna_dragon_analysis.png
+ ┃ ┣ blast_results.png
+ ┣ 📂 data
+ ┃ ┣ raw_sequence.fasta
+ ┃ ┣ trimmed_sequence.fasta
+ ┣ 📂 docs
+ ┃ ┣ primer_design_notes.pdf
+ ┣ README.md
+ ┣ LICENSE
+ ┣ .gitignore
+## 📸 Screenshots
+### DNA Dragon Analysis
+![DNA Dragon Analysis](screenshots/dna_dragon_analysis.png)
+
+### BLAST Results
+![BLAST Results](screenshots/blast_results.png)
+
+
+## ✅ Future Scope
+- Automate DNA sequence analysis using **Python and Biopython**
+- Add **primer efficiency calculation scripts**
+- Integrate results into a **bioinformatics pipeline**
+ 
+## 📜 License
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+## 🔖 Keywords
+`DNA analysis` `DNA Dragon` `BLAST search` `primer design` `molecular biology` `bioinformatics`
