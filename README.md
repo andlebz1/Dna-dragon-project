@@ -43,7 +43,7 @@ This repository is useful for **molecular biology students, researchers, and bio
  ┣ .gitignore
 ## 📸 Screenshots
 ### DNA Dragon Analysis
-![DNA Dragon Analysis](screenshots/dna_dragon_analysis.png)
+![DNA Dragon Analysis]
 
 ### BLAST Results
 ![BLAST Results](screenshots/blast_results.png)
