@@ -58,4 +58,4 @@ This repository is useful for **molecular biology students, researchers, and bio
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## 🔖 Keywords
-`DNA analysis` `DNA Dragon` `BLAST search` `primer design` `molecular biology` `bi
+`DNA analysis` `DNA Dragon` `BLAST search` `primer design` `molecular biology` 
