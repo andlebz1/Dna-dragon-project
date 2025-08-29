@@ -46,7 +46,7 @@ This repository is useful for **molecular biology students, researchers, and bio
 ![DNA Dragon Analysis]
 
 ### BLAST Results
-![BLAST Results](screenshots/blast_results.png)
+
 
 
 ## ✅ Future Scope
